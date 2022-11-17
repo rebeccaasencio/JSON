@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+*{
+  box-sizing: border-box;
+}
+
+body,html{
+  margin: 0;
+  padding: 0;
+  font-family: 'Crimson Text', serif;
+  background-color: #D9FFF5;
+
+}
+
+body {
+  padding: 0px;
+  font-family: 'Crimson Text', serif;
+  font-size: 10px;
+}
+
+#pagetitle{
+  text-align: center;
+  font-size: 80px;
+  margin-top: 50px;
+}
+
+h1{
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 64px;
+  text-align: center;
+}
+
+h2{
+  font-family: 'Crimson Text', serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Crimson Text', serif;
+  font-size: 22px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+#name{
+  font-size: 34px;
+}
+
+#contentGrid {
+  font-size: 20px;
+  padding: 50px;
+}
+
+.aboutMe{
+  padding: 100px;
+  height: 100%;
+  text-align: center;
+  color: #004E64;
+}
+
+.contentItem {
+  padding: 50px;
+  height: 100%;
+  border: double;
+  border-color: white;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #004E64;
+}
+
+.Image{
+  width: 600px;
+  height: 600px;
+  object-fit: contain;
+  margin-bottom: 5px;
+  text-align: center;
+}
