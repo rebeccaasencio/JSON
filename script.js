@@ -46,7 +46,7 @@ let jsonDatabase = [
   },
   {
     "title":"Squirrel Forestry",
-    "picture":"pen_and_ink_forestry.JPG",
+    "picture":"pen_and_ink_forestry.jpg",
     "description":"Medium: Pen and Ink",
     "color":"#C5EAF2"
   }
